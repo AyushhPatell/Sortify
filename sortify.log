@@ -1,0 +1,57 @@
+2026-03-27 22:16:21 | INFO | Run started (dry_run=True, utc=2026-03-28T01:16:21.492282+00:00)
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/.DS_Store -> Others/.DS_Store
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/2025_T4_202627173240.pdf -> Documents/2025_T4_202627173240.pdf
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/AI_ML.pdf -> Documents/AI_ML.pdf
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/App_Store_Connect_Setup_Guide.docx -> Documents/App_Store_Connect_Setup_Guide.docx
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Ayush.xlsx -> Documents/Ayush.xlsx
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/DEEBug_Closing_Document_Fall_2025.pdf -> Documents/DEEBug_Closing_Document_Fall_2025.pdf
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Frame_1.png -> Images/Frame_1.png
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/iloveimg-resized (1).zip -> Archives/iloveimg-resized (1).zip
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/iloveimg-resized.zip -> Archives/iloveimg-resized.zip
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Kopit_s_Bizarre_Adventure_description.txt -> Documents/Kopit_s_Bizarre_Adventure_description.txt
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Lab6_InterviewGroupC.pdf -> Documents/Lab6_InterviewGroupC.pdf
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Lab6_TaskObservationCodingSheetGroupC.pdf -> Documents/Lab6_TaskObservationCodingSheetGroupC.pdf
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/LifeRaft_Code_Practice.pdf -> Documents/LifeRaft_Code_Practice.pdf
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Mi'kmaw Kina'matnewey - Fall 2025 - Closing Document.pdf -> Documents/Mi'kmaw Kina'matnewey - Fall 2025 - Closing Document.pdf
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/pass.pkpass -> Others/pass.pkpass
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Plancard.pdf -> Documents/Plancard.pdf
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Pythonic_Application.pdf -> Documents/Pythonic_Application.pdf
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Pythonic_Application_Package.pdf -> Documents/Pythonic_Application_Package.pdf
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Question_Template FOR FocusGroups.docx -> Documents/Question_Template FOR FocusGroups.docx
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Screenshot 2026-03-11 at 12.12.45 PM.png -> Images/Screenshot 2026-03-11 at 12.12.45 PM.png
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Screenshot 2026-03-11 at 12.15.18 PM.png -> Images/Screenshot 2026-03-11 at 12.15.18 PM.png
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Screenshot 2026-03-11 at 12.16.44 PM.png -> Images/Screenshot 2026-03-11 at 12.16.44 PM.png
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/Screenshot 2026-03-11 at 12.22.52 PM.png -> Images/Screenshot 2026-03-11 at 12.22.52 PM.png
+2026-03-27 22:16:23 | INFO | DRY-RUN: would move /Users/ayush/Downloads/A/StudentVIP-Plancard.pkpass -> Others/StudentVIP-Plancard.pkpass
+2026-03-27 22:16:23 | INFO | Run finished: moved_or_previewed=24, skipped_or_failed=0, dry_run=True
+2026-03-27 22:21:31 | INFO | Run started (dry_run=True, utc=2026-03-28T01:21:31.704121+00:00)
+2026-03-27 22:21:31 | INFO | DRY-RUN: would move /Users/ayush/Documents/Projects/Sortify/.DS_Store -> Others/.DS_Store
+2026-03-27 22:21:31 | INFO | DRY-RUN: would move /Users/ayush/Documents/Projects/Sortify/.gitignore -> Others/.gitignore
+2026-03-27 22:21:31 | INFO | DRY-RUN: would move /Users/ayush/Documents/Projects/Sortify/README.md -> Documents/README.md
+2026-03-27 22:21:31 | INFO | Run finished: moved_or_previewed=3, skipped_or_failed=0, dry_run=True
+2026-03-27 22:31:32 | INFO | Run started (dry_run=False, utc=2026-03-28T01:31:32.624174+00:00)
+2026-03-27 22:31:32 | INFO | MOVED: .DS_Store -> Others/.DS_Store
+2026-03-27 22:31:32 | INFO | MOVED: 2025_T4_202627173240.pdf -> Documents/2025_T4_202627173240.pdf
+2026-03-27 22:31:32 | INFO | MOVED: AI_ML.pdf -> Documents/AI_ML.pdf
+2026-03-27 22:31:32 | INFO | MOVED: App_Store_Connect_Setup_Guide.docx -> Documents/App_Store_Connect_Setup_Guide.docx
+2026-03-27 22:31:32 | INFO | MOVED: Ayush.xlsx -> Documents/Ayush.xlsx
+2026-03-27 22:31:32 | INFO | MOVED: DEEBug_Closing_Document_Fall_2025.pdf -> Documents/DEEBug_Closing_Document_Fall_2025.pdf
+2026-03-27 22:31:32 | INFO | MOVED: Frame_1.png -> Images/Frame_1.png
+2026-03-27 22:31:32 | INFO | MOVED: iloveimg-resized (1).zip -> Archives/iloveimg-resized (1).zip
+2026-03-27 22:31:32 | INFO | MOVED: iloveimg-resized.zip -> Archives/iloveimg-resized.zip
+2026-03-27 22:31:32 | INFO | MOVED: Kopit_s_Bizarre_Adventure_description.txt -> Documents/Kopit_s_Bizarre_Adventure_description.txt
+2026-03-27 22:31:32 | INFO | MOVED: Lab6_InterviewGroupC.pdf -> Documents/Lab6_InterviewGroupC.pdf
+2026-03-27 22:31:32 | INFO | MOVED: Lab6_TaskObservationCodingSheetGroupC.pdf -> Documents/Lab6_TaskObservationCodingSheetGroupC.pdf
+2026-03-27 22:31:32 | INFO | MOVED: LifeRaft_Code_Practice.pdf -> Documents/LifeRaft_Code_Practice.pdf
+2026-03-27 22:31:32 | INFO | MOVED: Mi'kmaw Kina'matnewey - Fall 2025 - Closing Document.pdf -> Documents/Mi'kmaw Kina'matnewey - Fall 2025 - Closing Document.pdf
+2026-03-27 22:31:32 | INFO | MOVED: pass.pkpass -> Others/pass.pkpass
+2026-03-27 22:31:32 | INFO | MOVED: Plancard.pdf -> Documents/Plancard.pdf
+2026-03-27 22:31:32 | INFO | MOVED: Pythonic_Application.pdf -> Documents/Pythonic_Application.pdf
+2026-03-27 22:31:32 | INFO | MOVED: Pythonic_Application_Package.pdf -> Documents/Pythonic_Application_Package.pdf
+2026-03-27 22:31:32 | INFO | MOVED: Question_Template FOR FocusGroups.docx -> Documents/Question_Template FOR FocusGroups.docx
+2026-03-27 22:31:32 | INFO | MOVED: Screenshot 2026-03-11 at 12.12.45 PM.png -> Images/Screenshot 2026-03-11 at 12.12.45 PM.png
+2026-03-27 22:31:32 | INFO | MOVED: Screenshot 2026-03-11 at 12.15.18 PM.png -> Images/Screenshot 2026-03-11 at 12.15.18 PM.png
+2026-03-27 22:31:32 | INFO | MOVED: Screenshot 2026-03-11 at 12.16.44 PM.png -> Images/Screenshot 2026-03-11 at 12.16.44 PM.png
+2026-03-27 22:31:32 | INFO | MOVED: Screenshot 2026-03-11 at 12.22.52 PM.png -> Images/Screenshot 2026-03-11 at 12.22.52 PM.png
+2026-03-27 22:31:32 | INFO | MOVED: StudentVIP-Plancard.pkpass -> Others/StudentVIP-Plancard.pkpass
+2026-03-27 22:31:32 | INFO | Run finished: moved_or_previewed=24, skipped_or_failed=0, dry_run=False
