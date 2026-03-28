@@ -43,6 +43,4 @@ sortify/
 | Engineering | Idempotent-ish runs, duplicate-safe moves, logging |
 | Git-friendly | Single module, no lockfiles, easy to review |
 
-## License
 
-MIT — use freely in your portfolio and interviews.
